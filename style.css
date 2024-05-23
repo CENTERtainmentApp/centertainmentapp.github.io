@@ -1,0 +1,71 @@
+body
+{
+    background-image: linear-gradient(#261F2A,#171317);
+    background-repeat: no-repeat;
+    color: #72B054;
+    font-family: LogoFont;
+    background-attachment: fixed;
+    text-align: justify;
+}
+#logo
+{
+    max-width: 30%;
+}
+#logo2
+{
+    max-width: 60%;
+}
+@font-face {
+    font-family: LogoFont;
+    src: url(./Gotham-Rounded-Bold.ttf);
+}
+#menu
+{
+    display: flex;
+    
+}
+
+.uiCENTERColor {
+    color: #72B054;
+}
+.uiSecondaryColor {
+    color: #B4DCA4;
+}
+.uiPremiumCENTERColor {
+    color: #DDC84D;
+}
+.uiPremiumSecondaryColor {
+    color: #FFF199;
+}
+
+.intro h1 {
+    font-size: 50px;
+}
+
+.icon {
+    width: 40px;
+}
+
+.CENTERButton {
+    border: 2px solid #72B054;
+    border-radius: 25px;
+    background-color: #73b05473;
+    font-size: 25px;
+    color: #B4DCA4;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.CENTERButton:hover {
+    background-color: #73b054b0;
+    animation-duration: 300ms;
+}
+
+h3, h5 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: #B4DCA4;
+}
+
+a {
+    color: #B4DCA4;
+}
