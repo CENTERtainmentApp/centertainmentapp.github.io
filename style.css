@@ -9,11 +9,11 @@ body
 }
 #logo
 {
-    max-width: 30%;
+    max-width: 15%;
 }
 #logo2
 {
-    max-width: 60%;
+    max-width: 45%;
 }
 @font-face {
     font-family: LogoFont;
